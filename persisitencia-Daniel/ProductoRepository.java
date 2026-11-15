@@ -1,5 +1,11 @@
 package sistemadeinventariog2.persistencia;
 
+/**
+ * Autor: Daniel Solórzano
+ * Descripción: Repositorio encargado de gestionar las operaciones CRUD 
+ * (Crear, Leer, Actualizar, Eliminar) para la colección de Productos en MongoDB.
+ */
+
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;

@@ -1,5 +1,11 @@
 package sistemadeinventariog2.interfaz;
 
+/**
+ * Autor: Daniel Solórzano
+ * Descripción: Interfaz gráfica en Java Swing para la gestión visual 
+ * del módulo de productos (Registro, Tabla y Botones de acción).
+ */
+
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;

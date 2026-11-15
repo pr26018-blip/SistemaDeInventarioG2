@@ -1,7 +1,13 @@
 package sistemadeinventariog2.modelo;
 
-public class Producto {
+/**
+ * Autor: Daniel Solórzano
+ * Descripción: Clase entidad que representa el modelo de Producto 
+ * dentro de la arquitectura del sistema de inventario.
+ */
 
+public class Producto {
+//Atributos principales del producto
     private String codigo;
     private String nombre;
     private String descripcion;
